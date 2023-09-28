@@ -1,0 +1,11 @@
+venv
+*.log
+docs/build
+*__pycache__*
+test_he*
+parallel_tests
+*.jpg
+*.tiff
+*.tif
+*.png
+*.gif
