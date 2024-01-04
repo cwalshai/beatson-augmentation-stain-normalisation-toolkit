@@ -1,8 +1,0 @@
-imagecodecs
-numpy
-opencv-python-headless
-openslide-python
-Pillow
-scipy
-spams
-tifffile
