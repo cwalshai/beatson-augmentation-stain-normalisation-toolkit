@@ -23,7 +23,7 @@ setuptools.setup(
     package_dir={"": "src"},
     packages=setuptools.find_packages(where="src"),
     python_requires=">=3.6",
-    install-requires=[
+    install_requires=[
         imagecodecs,
         numpy,
         opencv-python-headless,
