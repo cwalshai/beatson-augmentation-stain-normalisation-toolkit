@@ -12,14 +12,14 @@
 #
 import os
 import sys
-sys.path.insert(0, "/home/local/BICR/cwalsh/workspace/normalisation/beast")
+sys.path.insert(0, "/home/chris/workspace/beatson-augmentation-stain-normalisation-toolkit")
 
 
 # -- Project information -----------------------------------------------------
 
 # project = 'BSNAP - Beatson Stain Normalisation and Augmentation Package'
 project = 'BEAST - Beatson Augmentation and Stain Normalisation Toolkit'
-copyright = '2023, Cancer Research UK Beatson Institute'
+copyright = '2024, Cancer Research UK Scotland Institute'
 author = 'Chris Walsh & Robert Insall'
 
 # -- General configuration ---------------------------------------------------
